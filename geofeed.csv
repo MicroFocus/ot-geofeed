@@ -3,3 +3,5 @@
 2620:113:8082::/48,IN,IN-KA,Bengaluru,
 2620:113:80c3::/48,GB,GB-WBK,Newbury,
 143.186.125.0/24,GB,GB-WBK,Newbury,
+129.84.0.0/24,CA,CA-ON,Cambridge,
+129.84.1.0/24,CA,CA-QC,Montreal,
